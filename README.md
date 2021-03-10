@@ -1,2 +1,1 @@
-# Vuejs
-Learning vue.js
+# Starting with vuejs
